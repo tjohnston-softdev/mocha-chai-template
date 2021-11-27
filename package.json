@@ -2,7 +2,7 @@
   "name": "mocha-chai-template",
   "version": "9.1.3",
   "description": "",
-  "main": "./text/index.js",
+  "main": "./test/index.js",
   "scripts": {
     "test": "node ./node_modules/mocha/bin/mocha"
   },
