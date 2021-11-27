@@ -26,5 +26,3 @@ Of course, this wouldn't be the only way to set up Mocha. I'm sure there are met
 ## Disclaimer
 
 This demo project is licensed under CC0 1.0 Universal. This is just a personal template for Node JS unit testing under the [Mocha](https://www.npmjs.com/package/mocha) framework that I have made available for public reference. I do not claim any copyright over this template. This is not an official resource for the [Mocha](https://www.npmjs.com/package/mocha) or [Chai](https://www.npmjs.com/package/chai) libraries and I have no affiliation with their respective developers. I will release future versions of this template as the libraries are updated. I accept no responsibility for how you use this or what you do with it. I am perfectly aware that this is not the only way to use the [Mocha](https://www.npmjs.com/package/mocha) framework and I am completely open to any advice or feedback you may have.
-
----
